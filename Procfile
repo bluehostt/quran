@@ -1,1 +1,1 @@
-worker: npm start
+worker: java -jar bot.jar -nogui
